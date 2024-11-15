@@ -17,7 +17,7 @@ spec:
   # Destination cluster and namespace to deploy the application
   destination:
     name: in-cluster
-    namespace: #TODO - Namespace de déploiement de votre application
+    namespace: kcl-jwittmer-wk
 
   # Sync policy
   syncPolicy:
